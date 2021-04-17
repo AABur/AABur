@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/aabur)
+
+
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 
 [![AABur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AABur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
