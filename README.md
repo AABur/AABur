@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
+[![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/AABur/100-days-of-code/blob/master/log.md)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/aabur)
