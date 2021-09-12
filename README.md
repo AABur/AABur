@@ -6,7 +6,7 @@
 
 <img src=https://komarev.com/ghpvc/?username = AABur/>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/AABur)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AABur)
 
 
 
