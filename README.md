@@ -4,7 +4,7 @@
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AABur&layout=compact&langs_count=6)
 
-<img src=https://komarev.com/ghpvc/?username = AABur/>
+![](https://komarev.com/ghpvc/?username=AABur&label=PROFILE+VIEWS)
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AABur)
 
