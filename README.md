@@ -1,8 +1,8 @@
 ![AABur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AABur&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AABur&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AABur&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AABur&layout=compact&langs_count=6)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AABur&layout=compact&langs_count=6)
 
 ![](https://komarev.com/ghpvc/?username=AABur&label=Profile views)
 
