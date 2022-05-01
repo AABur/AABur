@@ -4,9 +4,9 @@
 
 [![AABur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AABur&layout=compact&langs_count=6)](https://wakatime.com/@AABur)
 
-![](https://komarev.com/ghpvc/?username=AABur&label=PROFILE+VIEWS)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AABur)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AABur)
+![](https://komarev.com/ghpvc/?username=AABur&label=PROFILE+VIEWS)
 
 
 
