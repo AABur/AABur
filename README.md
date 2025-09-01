@@ -1,8 +1,7 @@
 [![AABur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AABur&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AABur)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AABur&layout=compact&langs_count=6&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 [![AABur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AABur&layout=compact&langs_count=6)](https://wakatime.com/@AABur)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AABur)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AABur&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
